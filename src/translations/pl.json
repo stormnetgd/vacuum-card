@@ -1,0 +1,37 @@
+{
+  "status": {
+    "Cleaning": "Sprząta",
+    "Paused": "Wstrzymany",
+    "Idle": "Bezczynny",
+    "Charging": "Ładowanie",
+    "Returning home": "Wraca do stacji ładującej"
+  },
+  "common": {
+    "name": "Karta odkurzacza",
+    "description": "Karta odkurzacza pozwala sterować odkurzaczem.",
+    "start": "Sprzątaj",
+    "continue": "Kontyntynuj",
+    "pause": "Wstrzymaj",
+    "stop": "Zatrzymaj",
+    "return_to_base": "Wróć do stacji ładującej",
+    "locate": "Lokalizuj odkurzacz"
+  },
+  "error": {
+    "missing_entity": "Brakujące pole!"
+  },
+  "editor": {
+    "entity": "Jednostka (Wymagane)",
+    "map": "Kamera (Opcjonalne)",
+    "image": "Plik Obrazu (Opcjonalne)",
+    "compact_view": "Widok kompaktowy",
+    "compact_view_aria_label_on": "Włącz widok kompaktowy",
+    "compact_view_aria_label_off": "Wyłącz widok kompaktowy”,
+    "show_name": "Pokaż nazwę",
+    "show_name_aria_label_on": "Włącz nazwę",
+    "show_name_aria_label_off": "Wyłącz nazwę",
+    "show_toolbar": "Pokaż pasek narzędzi",
+    "show_toolbar_aria_label_on": "Włącz pasek narzędzi",
+    "show_toolbar_aria_label_off": "Wyłącz pasek narzędzi",
+    "code_only_note": "Uwaga: Ustawianie akcji i opcji statystyk jest dostępne wyłącznie za pomocą Edytora kodu."
+  }
+}
